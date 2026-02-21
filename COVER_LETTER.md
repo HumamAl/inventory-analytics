@@ -2,7 +2,7 @@ Hi,
 
 Noticed the trickiest part of this MVP is handling CSV format inconsistencies across different stores — every retailer exports inventory data differently. Put together a working demo showing how I'd approach it:
 
-**Built this for your project:** {VERCEL_URL}
+**Built this for your project:** https://inventory-analytics-eta.vercel.app
 
 The demo includes multi-tenant store management, CSV upload with validation, Top N/Bottom N SKU rankings, category totals, and AI-generated executive summaries — the full feature set scoped in your posting.
 
